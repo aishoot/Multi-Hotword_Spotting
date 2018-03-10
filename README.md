@@ -1,5 +1,5 @@
-# small-footprint_keyword_spotting
-small-footprint keyword spotting
+# Small-footprint Keyword Spotting
+![](/hey.png)
 
 # Keyword-KWS
 * English: keyword spotting, 
