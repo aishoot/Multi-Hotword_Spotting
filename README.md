@@ -13,6 +13,6 @@ A project gathering of small-footprint keyword spotting.<br><br>
 
 # Reference
 * https://yq.aliyun.com/articles/232231
-
+* [Hey Siri](https://www.leiphone.com/news/201710/IO3uxgYZyHt0AcPI.html)
 
 *More codes will be uploaded soon!*
