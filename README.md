@@ -2,11 +2,11 @@
 A project gathering of small-footprint keyword spotting.<br><br>
 ![](/hey.png)
 
-# Keyword-KWS
+# Term-KWS
 * In English: keyword spotting, 
 * In Chinese: 语音唤醒、关键词识别
 
-# Keyword-VAD
+# Term-VAD
 * In English: Voice Activity Detection, Speech Detection, End-Point Detection
 * In Chinese: 语音激活检测、端点检测、语音边界检
 
