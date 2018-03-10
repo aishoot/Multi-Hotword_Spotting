@@ -1,4 +1,5 @@
 # Small-footprint Keyword Spotting
+A project gathering of small-footprint keyword spotting.<br>
 ![](/hey.png)
 
 # Keyword-KWS
