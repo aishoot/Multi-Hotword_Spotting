@@ -16,7 +16,7 @@ A project gathering of small-footprint keyword spotting.<br><br>
 * [Hey Siri](https://www.leiphone.com/news/201710/IO3uxgYZyHt0AcPI.html)
 * Snowboy
   * https://snowboy.kitt.ai/
-  * http://blog.csdn.net/b735098742/article/details/78445981
-  * https://www.wandianshenme.com/play/smart-speaker-hotword-detection-engine-snowboy-setup-guide/
+  * [snowboy-setup-guide](http://blog.csdn.net/b735098742/article/details/78445981)
+  * [hotword-detection-engine](https://www.wandianshenme.com/play/smart-speaker-hotword-detection-engine-snowboy-setup-guide/)
 
 *More codes will be uploaded soon!*
