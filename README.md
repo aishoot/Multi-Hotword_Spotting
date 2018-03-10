@@ -19,5 +19,6 @@ A project gathering of small-footprint keyword spotting.<br><br>
   * [snowboy-setup-guide](http://blog.csdn.net/b735098742/article/details/78445981)
   * [hotword-detection-engine](https://www.wandianshenme.com/play/smart-speaker-hotword-detection-engine-snowboy-setup-guide/)
   * [Spoken Number Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
+  * [Building a Dead Simple Speech Recognition Engine](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)
 
 *More codes will be uploaded soon!*
