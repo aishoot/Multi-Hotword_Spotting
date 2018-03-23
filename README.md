@@ -11,7 +11,7 @@ A project gathering of small-footprint keyword spotting.<br><br>
 * In Chinese: 语音激活检测、端点检测、语音边界检
 
 # File Description
-* 1-
+* 1-dead_simple_speech_recognizer: building a Dead Simple Speech Recognition Engine using ConvNet in Keras.
 * 2-Speech representation and data exploration: a grasp of a problem of speech representation for TensorFlow Speech Recognition Challenge.
 
 
