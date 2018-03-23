@@ -10,6 +10,9 @@ A project gathering of small-footprint keyword spotting.<br><br>
 * In English: Voice Activity Detection, Speech Detection, End-Point Detection
 * In Chinese: 语音激活检测、端点检测、语音边界检
 
+# File Description
+* 2-Speech representation and data exploration:
+
 
 # Reference
 * https://yq.aliyun.com/articles/232231
@@ -20,5 +23,6 @@ A project gathering of small-footprint keyword spotting.<br><br>
   * [hotword-detection-engine](https://www.wandianshenme.com/play/smart-speaker-hotword-detection-engine-snowboy-setup-guide/)
 * [Spoken Number Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
 * [Building a Dead Simple Speech Recognition Engine](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)
+* [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
 
 *More codes will be uploaded soon!*
