@@ -11,7 +11,8 @@ A project gathering of small-footprint keyword spotting.<br><br>
 * In Chinese: 语音激活检测、端点检测、语音边界检
 
 # File Description
-* 2-Speech representation and data exploration:
+* 1-
+* 2-Speech representation and data exploration: a grasp of a problem of speech representation for TensorFlow Speech Recognition Challenge.
 
 
 # Reference
