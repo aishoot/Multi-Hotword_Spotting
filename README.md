@@ -3,7 +3,7 @@ A project gathering of small-footprint keyword spotting.<br><br>
 ![](/hey.png)
 
 # Term-KWS
-* In English: keyword spotting, isolate word speech recognition, speech/voice command recognition, Wake-Up-Word speech recognition
+* In English: keyword spotting, isolate word speech recognition, speech/voice command recognition, Wake-Up-Word speech recognition, hotword detection
 * In Chinese: 语音唤醒、关键词识别、孤立词识别、命令词识别
 
 # Term-VAD
