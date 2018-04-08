@@ -17,7 +17,7 @@ A project gathering of small-footprint keyword spotting.<br><br>
 
 # Reference
 * https://yq.aliyun.com/articles/232231
-* [Hey Siri](https://www.leiphone.com/news/201710/IO3uxgYZyHt0AcPI.html)
+* [苹果揭秘“Hey Siri”的开发细节](https://www.leiphone.com/news/201710/IO3uxgYZyHt0AcPI.html)
 * Snowboy
   * https://snowboy.kitt.ai/
   * [snowboy-setup-guide](http://blog.csdn.net/b735098742/article/details/78445981)
