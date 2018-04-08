@@ -1,5 +1,5 @@
 # Small-footprint Keyword Spotting
-A project gathering of small-footprint keyword spotting.<br><br>
+Will it be cool to build one like Amazon Alexa or Google Home yourself and run it in Real-time? Let's do Real Time Trigger Word Detection without third party voice API or network connection required to make it functional.<br><br>
 ![](/hey.png)
 
 # Term-KWS
