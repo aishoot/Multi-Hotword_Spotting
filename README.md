@@ -25,5 +25,6 @@ A project gathering of small-footprint keyword spotting.<br><br>
 * [Spoken Number Recognition](https://github.com/RichardLiuLiu/Spoken_Number_Recognition)
 * [Building a Dead Simple Speech Recognition Engine](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)
 * [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
+* [how-to-do-real-time-trigger-word-detection](https://hackernoon.com/how-to-do-real-time-trigger-word-detection-with-keras-b8a56ab106b7)
 
 *More codes will be uploaded soon!*
