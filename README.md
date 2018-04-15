@@ -26,5 +26,9 @@ Will it be cool to build one like Amazon Alexa or Google Home yourself and run i
 * [Building a Dead Simple Speech Recognition Engine](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)
 * [Speech representation and data exploration](https://www.kaggle.com/davids1992/speech-representation-and-data-exploration)
 * [how-to-do-real-time-trigger-word-detection](https://hackernoon.com/how-to-do-real-time-trigger-word-detection-with-keras-b8a56ab106b7)
+* Coursera-TriggerWord-Detection:
+  * [Keras-Trigger-Word](https://github.com/Tony607/Keras-Trigger-Word)
+  * [TriggerWordAssistant](https://github.com/susantabiswas/TriggerWordAssistant)
+
 
 *More codes will be uploaded soon!*
