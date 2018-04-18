@@ -33,4 +33,4 @@ Will it be cool to build one like Amazon Alexa or Google Home yourself and run i
   * [blog: real-time-trigger](https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/)
 
 
-*More codes will be uploaded soon!*
+*More code will be uploaded soon!*
