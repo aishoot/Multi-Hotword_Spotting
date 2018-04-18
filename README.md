@@ -13,6 +13,7 @@ Will it be cool to build one like Amazon Alexa or Google Home yourself and run i
 # File Description
 * 1-dead_simple_speech_recognizer: building a Dead Simple Speech Recognition Engine using ConvNet in Keras.
 * 2-Speech representation and data exploration: a grasp of a problem of speech representation for TensorFlow Speech Recognition Challenge.
+* 3-trigger_word_coursera: trigger word detection studying from coursera.
 
 
 # Reference
