@@ -8,7 +8,7 @@ Will it be cool to build one like Amazon Alexa or Google Home yourself and run i
 
 # Term-VAD
 * In English: Voice Activity Detection, Speech Detection, End-Point Detection
-* In Chinese: 语音激活检测、端点检测、语音边界检
+* In Chinese: 语音激活检测、端点检测、语音边界检、数字语音助手
 
 # File Description
 * 1-dead_simple_speech_recognizer: building a Dead Simple Speech Recognition Engine using ConvNet in Keras.
